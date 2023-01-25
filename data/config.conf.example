@@ -1,0 +1,7 @@
+[OPTIONS]
+file_path="./data/file.xlsx"
+file_output="./data/output.xlsx"
+date_format="%d/%m/%Y"
+default_money=0
+month_to_check=2
+year_to_check=2023

@@ -1,5 +1,0 @@
-[OPTIONS]
-file_path="./file.xls"
-date_format="%d/%m/%Y"
-default_money=0
-month_to_check=2
