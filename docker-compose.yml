@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  month_helper:
+    container_name: month_helper
+    build: .
+    volumes:
+      - ./data:/app/data
